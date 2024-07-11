@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamjid388&label=Profile%20views&color=0e75b6&style=flat" alt="tamjid388" /> </p>
 
-- 🌱 I’m currently learning **Wordpress**
+- 🌱 I’m currently learning **MERN Stack Development**
 
 - 📫 How to reach me **tamjidahmed388@gmail.com**
 
