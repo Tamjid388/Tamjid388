@@ -2,7 +2,7 @@
 
 ###
 
-![Image](https://github.com/user-attachments/assets/c12d7e18-3184-483c-9068-a8243959d894)
+![Image](https://github.com/user-attachments/assets/cb5261f6-5b91-419b-8d87-7f7a3bbde6ed)
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=tamjid388&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
