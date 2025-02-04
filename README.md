@@ -1,8 +1,27 @@
-<h1 align="left">Hi 👋, I'm Tamjid Ahmed</h1>
+
 
 ###
 
 ![Image](https://github.com/user-attachments/assets/c3e7c1d6-3809-439f-aca0-a80392228d6d)
+<h1 align="left">Hi 👋, I'm Tamjid Ahmed</h1>
+
+###
+
+<h2 align="left">⚡About Me</h2>
+
+###
+
+<p align="left">A passionate Frontend Developer specializing in React.js with experience in the MERN stack. I enjoy building interactive and responsive web applications. Currently, I am expanding my knowledge by learning Next.js to enhance my full-stack capabilities.</p>
+
+###
+
+<h2 align="left">🏗️ Current Activities</h2>
+
+###
+
+<p align="left">🚀 Exploring Next.js and server-side rendering (SSR)<br>💡 Working on a unique web development project for defense as my final year project<br>⚙️ Improving my frontend performance optimization skills</p>
+
+###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=tamjid388&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -39,9 +58,12 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  <a href="https://www.linkedin.com/in/tamjid-ahmed-profile59326b/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/tamjid.razin/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
 </div>
 
 ###
