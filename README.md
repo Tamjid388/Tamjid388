@@ -23,6 +23,14 @@
 
 ###
 
+###<h2 align="left">🌐 Portfolio Website</h2> 
+
+<p align="left">
+  🔗 Check out my personal portfolio to see my latest work and projects:<br>
+  <a href="https://tamjidahmedportfolio.netlify.app/" target="_blank"><strong>tamjidahmed.dev</strong></a>
+</p>
+
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=tamjid388&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 
