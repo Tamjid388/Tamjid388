@@ -29,7 +29,7 @@
 
 <p align="left">
   🔗 Check out my personal portfolio to see my latest work and projects:<br>
-  <a href="https://tamjidahmedportfolio.netlify.app/" target="_blank"><strong>tamjidahmed.dev</strong></a>
+  <a href="https://tamjidahmedportfolio.netlify.app/" target="_blank" rel="noopener noreferrer"><strong>tamjidahmed.dev</strong></a>
 </p>
 
 ###
