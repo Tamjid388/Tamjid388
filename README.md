@@ -19,8 +19,8 @@
 
 ###
 
-<p align="left">🚀 Exploring the MERN Stack with a focus on backend development
-💡 Building a unique web application for my Capstone Project
+<p align="left">🚀 Exploring the MERN Stack with a focus on backend development <br>
+💡 Building a unique web application for my Capstone Project  <br>
 ⚙️ Sharpening my skills in API development, authentication & backend architecture</p>
 
 ###
