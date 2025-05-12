@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">A passionate Frontend Developer specializing in React.js with experience in the MERN stack. I enjoy building interactive and responsive web applications. Currently, I am expanding my knowledge by learning Next.js to enhance my full-stack capabilities.</p>
+<p align="left">assionate Frontend Developer specializing in React.js with experience in the MERN stack. I enjoy building interactive and responsive web applications. Currently, I am focusing on strengthening my backend skills to enhance my full-stack capabilities.</p>
 
 ###
 
@@ -19,7 +19,9 @@
 
 ###
 
-<p align="left">🚀 Exploring Next.js and server-side rendering (SSR)<br>💡 Working on a unique web development project for defense as my final year project<br>⚙️ Improving my frontend performance optimization skills</p>
+<p align="left">🚀 Exploring the MERN Stack with a focus on backend development
+💡 Building a unique web application for my Capstone Project
+⚙️ Sharpening my skills in API development, authentication & backend architecture</p>
 
 ###
 
