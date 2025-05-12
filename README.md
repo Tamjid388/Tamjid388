@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">assionate Frontend Developer specializing in React.js with experience in the MERN stack. I enjoy building interactive and responsive web applications. Currently, I am focusing on strengthening my backend skills to enhance my full-stack capabilities.</p>
+<p align="left">Passionate Frontend Developer specializing in React.js with experience in the MERN stack. I enjoy building interactive and responsive web applications. Currently, I am focusing on strengthening my backend skills to enhance my full-stack capabilities.</p>
 
 ###
 
