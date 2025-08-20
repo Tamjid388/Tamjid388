@@ -2,7 +2,7 @@
 
 ###
 
-![Image](https://github.com/user-attachments/assets/c3e7c1d6-3809-439f-aca0-a80392228d6d)
+![Image](https://github.com/user-attachments/assets/c3e7c1d6-3809-439f-aca0-a80392228d6d](https://github.com/user-attachments/assets/6612cdfe-fa7a-4241-80e7-9eafe9e24e5e)
 <h1 align="left">Hi 👋, I'm Tamjid Ahmed</h1>
 
 ###
