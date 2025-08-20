@@ -2,7 +2,7 @@
 
 ###
 
-![Image](https://github.com/user-attachments/assets/c3e7c1d6-3809-439f-aca0-a80392228d6d](https://github.com/user-attachments/assets/6612cdfe-fa7a-4241-80e7-9eafe9e24e5e)
+![Image](https://github.com/user-attachments/assets/6612cdfe-fa7a-4241-80e7-9eafe9e24e5e)
 <h1 align="left">Hi 👋, I'm Tamjid Ahmed</h1>
 
 ###
@@ -49,6 +49,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
